@@ -16,6 +16,8 @@ const external = [
   'prop-types',
   'formik',
   'react',
+  'react-bootstrap',
+  'react-select',
   'react-dom',
   'rxjs',
   'rxjs/Observable',
